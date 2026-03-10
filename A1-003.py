@@ -1,0 +1,5 @@
+v1 = int(input())
+v2 = int(input())
+v3 = int(input())
+vr = max(v1,v2,v3)
+print(vr) 
